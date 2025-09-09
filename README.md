@@ -1,3 +1,5 @@
+_// Regras do Desafio_
+
 # ABRIGO DE ANIMAIS
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
